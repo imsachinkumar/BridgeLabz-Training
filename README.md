@@ -23,6 +23,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Solved **elementary Java programming problems**
 - Strengthened understanding of core concepts
 -  Practice Level-1 problems of elements
+-  
 [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
  #### 🔹 18-Dec-2025 (Thursday)
@@ -42,6 +43,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 - 
+
 
 
 
