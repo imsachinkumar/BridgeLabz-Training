@@ -42,7 +42,14 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - 
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
+#### 🔹 20-Dec-2025 (Saturday)
+- Learned array declaration, initialization, and traversal
+- Solved basic array problems 
+- Implemented programs using 1D and 2D arrays
+- Practiced logic building with loops and arrays
 - 
+- [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
+
 
 
 
