@@ -50,9 +50,23 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - 
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
 
+#### 🔹 22-Dec-2025 (Monday)
 
+- Solved problems on string manipulation, comparison, and palindrome checks.
+- Implemented anagram checks and character frequency counts.
+- Practiced reversing strings and finding longest substrings.
+- Learned to use charAt(), length(), arrays, and loops effectively.
+- Focused on handling edge cases like empty strings and case sensitivity.
 
+- [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
 
+#### 🔹 23-Dec-2025 (Monday)
 
+- Implemented Election Booth Manager to check voter eligibility and record votes using conditional statements and loops.
+- Built Metro Smart Card Fare Deduction system to calculate fares based on distance and update balance using ternary operators.
+- Focused on scenario-based problem solving with input validation and loop control.
+- Study about SDLC that it is a step-by-step process to develop software efficiently and systematically.
+- Focus on SDLC features as it helps to provides a clear roadmap for developers and stakeholders.
 
+- [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
