@@ -60,7 +60,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
 
-#### 🔹 23-Dec-2025 (Monday)
+#### 🔹 23-Dec-2025 (Tuesday)
 
 - Implemented Election Booth Manager to check voter eligibility and record votes using conditional statements and loops.
 - Built Metro Smart Card Fare Deduction system to calculate fares based on distance and update balance using ternary operators.
@@ -69,4 +69,15 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Focus on SDLC features as it helps to provides a clear roadmap for developers and stakeholders.
 
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+#### 🔹 24-Dec-2025 (Wednesday)
+- Worked on Java programs focused on methods and practice the problems of methods.
+- Practiced passing parameters and returning values from methods.
+- Improved code structure by separating logic into methods.
+- Strengthened understanding of method calls and modular programming.
+- Completed and submitted all 3 levels of problems successfully.
+  
+- [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+
 
