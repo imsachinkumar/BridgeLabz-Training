@@ -21,6 +21,6 @@ public class MetroSmartCard{
             }
         }
         System.out.println("Remaining Balance: ₹"+balance);
-        sc.close();
+        sc.close() ;
     }
 }
