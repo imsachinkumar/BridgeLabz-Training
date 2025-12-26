@@ -50,6 +50,8 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - 
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
 
+## Week 1: Week 2: Control Flow, Methods, and Problem Solving in Java
+
 #### 🔹 22-Dec-2025 (Monday)
 
 - Solved problems on string manipulation, comparison, and palindrome checks.
@@ -78,6 +80,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Completed and submitted all 3 levels of problems successfully.
   
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
 
 
 
