@@ -27,6 +27,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
  #### 🔹 18-Dec-2025 (Thursday)
+ 
 - Studied **Java programming elements** (variables, data types, operators)
 - Practiced basic **input/output** operations
 - Solved beginner-level programming element problems
@@ -35,6 +36,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 #### 🔹 19-Dec-2025 (Friday)
+
 - Practiced **control flow statements** in Java (if-else, switch-case)
 - Solved **control flow practice problems**
 - Implemented programs using loops (for, while, do-while)
@@ -43,6 +45,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 #### 🔹 20-Dec-2025 (Saturday)
+
 - Learned array declaration, initialization, and traversal
 - Solved basic array problems 
 - Implemented programs using 1D and 2D arrays
@@ -73,6 +76,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 #### 🔹 24-Dec-2025 (Wednesday)
+
 - Worked on Java programs focused on methods and practice the problems of methods.
 - Practiced passing parameters and returning values from methods.
 - Improved code structure by separating logic into methods.
@@ -82,6 +86,14 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 
+#### 🔹 26-Dec-2025 (Friday)
+
+- Solved extra Java problems focusing on methods and modular programming.
+- Implemented a Bus Route Distance Tracker using methods and while-loops to manage total distance(Scenario-based problems).
+- Built a Festival Lucky Draw program using conditions and modulus logic(Scenario-based problems).
+- Completed and submitted both Scenario-based problems and methods assignment successfully.
+
+- [Link](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 
 
