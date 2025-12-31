@@ -4,8 +4,8 @@
 #### main
 -Empty (default branch)
 
-####core-java-practice
--Contains all Core Java related practice code
+#### core-java-practice
+-Contains all Core Java related practice problems
 
 #### oops-practice
 -Contains all object oriented related problems
@@ -42,9 +42,8 @@ BridgeLabz_Training/
 
 ## Week 1: Getting Started with Java
 
-This repository documents my learning progress during **Week 1** of BridgeLabz training, focused on Java fundamentals.
+This repository documents contains learning progress during  BridgeLabz training, focused on Java fundamentals.
 
----
 
 ### 📅 Training Schedule & Activities
 #### 🔹📅 16-Dec-2025 (Tuesday)
@@ -60,32 +59,28 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Studied the **history and features of Java**
 - Solved **elementary Java programming problems**
 - Strengthened understanding of core concepts
--  Practice Level-1 problems of elements
--  
- [programming-elements](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+- Practice Level-1 problems of elements 
+- [programming-elements](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
  #### 🔹📅18-Dec-2025 (Thursday)
 - Studied **Java programming elements** (variables, data types, operators)
 - Practiced basic **input/output** operations
 - Solved beginner-level programming element problems
-- completed and submitted Level-1 and Level-2 problems of elements
-- 
-[programming-elements](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+- completed and submitted Level-1 and Level-2 problems of elements 
+- [programming-elements](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 #### 🔹📅 19-Dec-2025 (Friday)
 - Practiced **control flow statements** in Java (if-else, switch-case)
 - Solved **control flow practice problems**
-- Implemented programs using loops (for, while, do-while)
-- Completed and Submitted Level-3 Problems of control-flow
-- 
+- Implemented programs using loops (for, while, do-while).
+- Completed and Submitted Level-3 Problems of control-flow successfully.
 - [control-flow](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 #### 🔹📅 20-Dec-2025 (Saturday)
-- Learned array declaration, initialization, and traversal
-- Solved basic array problems 
-- Implemented programs using 1D and 2D arrays
-- Practiced logic building with loops and arrays
-- 
+- Learned array declaration, initialization, and traversal.
+- Solved basic array problems. 
+- Implemented programs using 1D and 2D arrays.
+- Practiced logic building with loops and arrays.
 - [Arrays](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
 
 ## Week 2: Control Flow, Methods, and Problem Solving in Java
@@ -96,7 +91,6 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Practiced reversing strings and finding longest substrings.
 - Learned to use charAt(), length(), arrays, and loops effectively.
 - Focused on handling edge cases like empty strings and case sensitivity.
-
 - [Strings](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
 
 #### 🔹📅 23-Dec-2025 (Tuesday)
@@ -105,7 +99,6 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Focused on scenario-based problem solving with input validation and loop control.
 - Study about SDLC that it is a step-by-step process to develop software efficiently and systematically.
 - Focus on SDLC features as it helps to provides a clear roadmap for developers and stakeholders.
-
 - [scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 #### 🔹📅 24-Dec-2025 (Wednesday)
@@ -114,7 +107,6 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Improved code structure by separating logic into methods.
 - Strengthened understanding of method calls and modular programming.
 - Completed and submitted all 3 levels of problems successfully.
-  
 - [methods](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 
@@ -123,15 +115,15 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Implemented a Bus Route Distance Tracker using methods and while-loops to manage total distance(Scenario-based problems).
 - Built a Festival Lucky Draw program using conditions and modulus logic(Scenario-based problems).
 - Completed and submitted both Scenario-based problems and methods assignment successfully.
-
 - [scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+ ## Week 3: Object-Oriented Programming System (OOPS)
   
 #### 🔹📅 29-Dec-2025 (Monday)
 - Solved multiple scenario-based Java programs to strengthen my logical thinking.
 - Implemented Employee Wage Computation using loops, conditions, and random values.
 - Solved Line Comparison problem to understand object comparison and mathematical logic.
 - Completed and submitted all levels of scenario-based problems successfully.
-
 - [scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 #### 🔹📅 30-Dec-2025 (Tuesday)
@@ -139,7 +131,6 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Created multiple classes with attributes and methods to model real-world entities.
 - This practice strengthened my foundation in object-oriented programming.
 - Completed and submitted all levels of class and object problems successfully.
-
 - [class and object](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classandobject)
 
 #### 🔹📅 30-Dec-2025 (Wednesday)
@@ -147,7 +138,6 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 - Implemented programs using Access Modifiers (public, protected, private).
 - Practiced the difference between Instance variables and Class (static) variables.
 - Completed and submitted assignment problems of constructors successfully.
-
 -[constructors](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors)
 
 ## 🛠️ Technologies Used
@@ -164,6 +154,7 @@ This repository documents my learning progress during **Week 1** of BridgeLabz t
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
