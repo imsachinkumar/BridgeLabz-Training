@@ -28,12 +28,12 @@ BridgeLabz_Training/
 │
 └── oops-practice/
     ├── gcr-codebase/
-    │   ├── class-and-object/
+    │   ├── classandobject/
     │   ├── constructors/
-    │   ├── four-pillars/
-    │   ├── inheritance/
-    │   ├── object-oriented-design-principles/
-    │   └── this-static-final-keyword/
+    │   ├── inheritence/
+    │   ├── encapsulation/
+    │   ├── polymorphism/
+    │   └── javakeywords/
     │
     ├── leet-code-codebase/
     └── scenario-based/
@@ -133,12 +133,19 @@ This repository documents contains learning progress during  BridgeLabz training
 - Completed and submitted all levels of class and object problems successfully.
 - 🔗[class and object](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classandobject)
 
-#### 🔹📅 30-Dec-2025 (Wednesday)
+#### 🔹📅 31-Dec-2025 (Wednesday)
 - Practice and solved Java problems focused on Constructors and object initialization.
 - Implemented programs using Access Modifiers (public, protected, private).
 - Practiced the difference between Instance variables and Class (static) variables.
 - Completed and submitted assignment problems of constructors successfully.
 - 🔗[constructors](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors)
+  
+#### 🔹📅 1-Jan-2026 (Thursday)
+- Practiced Java concepts including this keyword for constructor initialization, static members for shared data, and final variables for constant values.
+- Used the instanceof operator to safely check object types at runtime.
+- Solved few scenario-based problems based on strings like Textanalyser and Sentence Formatter.
+- This practice improved my clarity on core OOP fundamentals in Java.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ## 🛠️ Technologies Used
  - Java
@@ -154,6 +161,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
