@@ -30,11 +30,11 @@ BridgeLabz_Training/
     ├── gcr-codebase/
     │   ├── classandobject/
     │   ├── constructors/
-    │   ├── inheritence/
+    │   ├── inheritance/
     │   ├── encapsulation/
     │   ├── polymorphism/
     │   └── javakeywords/
-    │
+    │   
     ├── leet-code-codebase/
     └── scenario-based/
 ```
@@ -147,6 +147,21 @@ This repository documents contains learning progress during  BridgeLabz training
 - This practice improved my clarity on core OOP fundamentals in Java.
 - 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+#### 🔹📅 2-Jan-2026 (Friday)
+- Completed design and object diagrams to strengthen my understanding of UML concepts.
+- Practiced scenario-based problems to improve logical thinking and real-world problem modeling.
+- Implemented a Temperature Analyzer program to process and analyze temperature data.
+- Completed and submitted designPrinciples and UML concepts successfully.
+- 🔗[design-principles](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/designprinciples)
+
+#### 🔹📅 3-Jan-2026 (Saturday)
+- Completed inheritance-based problems to understand parent–child class relationships.
+- Studied core OOP concepts such as Encapsulation, Interfaces, Abstract Classes, and Polymorphism.
+- Implemented scenario based problem like Banking App to perform operation like deposit and withdraw money using methods.
+- Completed and submitted Inheritance problem (Single Inheritance, Multilevel Inheritance, and Hierarchial Inheritance) successfully.
+- 🔗[inheritance](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+
+
 ## 🛠️ Technologies Used
  - Java
  - JDK
@@ -161,6 +176,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
