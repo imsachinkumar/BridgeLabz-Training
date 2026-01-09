@@ -10,6 +10,12 @@
 #### oops-practice
 - Contains all object oriented related problems
 
+#### dsa-practice
+- Contains Data Structure & Algorithm based problems
+
+#### reviews
+- Contains reviews problems
+
 ## 📁 Project Structure
 ```
 BridgeLabz_Training/
@@ -185,6 +191,11 @@ This repository documents contains learning progress during  BridgeLabz training
 - Completed and Submitted all the problems of linkedlist successfully.
 - 🔗[linkedlist](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)
 
+#### 🔹📅 9-Jan-2026 (Friday)
+- Focus on Datastructures like Stack, Queue, HashMap and Hashing Functions.
+- Implement scenrio based problems like Hospital Patient Management System,  Vehicle Rental Application, Flight Booking System focusing on CRUD operations.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 ## 🛠️ Technologies Used
  - Java
  - JDK
@@ -199,6 +210,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
