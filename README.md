@@ -161,6 +161,29 @@ This repository documents contains learning progress during  BridgeLabz training
 - Completed and submitted Inheritance problem (Single Inheritance, Multilevel Inheritance, and Hierarchial Inheritance) successfully.
 - 🔗[inheritance](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 
+#### 🔹📅 5-Jan-2026 (Monday)
+- Solved scenario based problem like Invoice Generator for Freelancers, Cafeteria Menu App focusing on Arrays and methods.
+- Completed and submitted Leetcode problems and implemented  Student score Analyser focusing on Arrays, Methods, Exception Handling.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+#### 🔹📅 6-Jan-2026 (Tuesday)
+- Focus on ArrayList, Strings, Methods, Exception and design a contact organizer for a mobile app.
+- Implement Online Quiz Platform – Result Processor to compare the user to correct answer.
+- Implement a Student Report Generator that generate a report card for students based on subject-wise marks and use methods for calculating average, grade assignment, and displaying result.
+- Design a Library Management System – Book Search and Checkout to manage books and track checkouts.
+- 🔗[leet-code-codebase](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+#### 🔹📅 7-Jan-2026 (Wednesday)
+- Started learning Data Structures & Algorithms with focusing on Linked List.
+- Study and analyse about operation of linked list like insertion, updation, and deletion and some benefits of linked list over arrays.
+- Solved 2 scenario based problems like Cab Booking/ Ride Management System and Online Banking System focusing on oops, Inheritance, Polymorphism, Abstraction, Exception Handling and Multithreading.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+#### 🔹📅 8-Jan-2026 (Thursday)
+- Solved problems based on LinkedList(Singly, Doubly, Circular) focusing on concept like insertAtBeginning, insertAtEnd and insertAtSpecificPosition.
+- Focusing on circular linkedlist problems and efficiency for Round Robin Scheduling.
+- Completed and Submitted all the problems of linkedlist successfully.
+- 🔗[linkedlist](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)
 
 ## 🛠️ Technologies Used
  - Java
@@ -176,6 +199,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
