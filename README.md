@@ -196,6 +196,10 @@ This repository documents contains learning progress during  BridgeLabz training
 - Implement scenrio based problems like Hospital Patient Management System,  Vehicle Rental Application, Flight Booking System focusing on CRUD operations.
 - 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+#### 🔹📅 12-Jan-2026 (Monday)
+- Implement scenario-based problems like E-commerce website, Banking Management System, Student Course Registration System, Hospital Management System, Library Management System.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 ## 🛠️ Technologies Used
  - Java
  - JDK
@@ -210,6 +214,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
