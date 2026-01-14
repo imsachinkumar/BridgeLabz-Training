@@ -206,6 +206,13 @@ This repository documents contains learning progress during  BridgeLabz training
 - Implement Online Voting System with features Users cast votes securely during an election, Voter registration, Candidate management, Vote casting, Result declaration.
 - 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+#### 🔹📅 14-Jan-2026 (Wednesday)
+- Studied various sorting algorithms and understood their working principles and time complexities.
+- Completed and submitted assignments related to Stack, Queue, and HashMap data structures successfully.
+- These assignments helped me strengthen my understanding of core data structure concepts.  
+- All implementations were done using Java with a focus on logic clarity and efficiency.
+- 🔗[stackqueuehashmap](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stackqueuehashmap)
+
 
 ## 🛠️ Technologies Used
  - Java
@@ -221,6 +228,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
