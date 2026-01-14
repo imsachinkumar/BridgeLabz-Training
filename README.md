@@ -193,12 +193,19 @@ This repository documents contains learning progress during  BridgeLabz training
 
 #### 🔹📅 9-Jan-2026 (Friday)
 - Focus on Datastructures like Stack, Queue, HashMap and Hashing Functions.
-- Implement scenrio based problems like Hospital Patient Management System,  Vehicle Rental Application, Flight Booking System focusing on CRUD operations.
+- Implement scenario based problems like Hospital Patient Management System,  Vehicle Rental Application, Flight Booking System focusing on CRUD operations.
 - 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 #### 🔹📅 12-Jan-2026 (Monday)
 - Implement scenario-based problems like E-commerce website, Banking Management System, Student Course Registration System, Hospital Management System, Library Management System.
 - 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+#### 🔹📅 13-Jan-2026 (Tuesday)
+- Implement Hotel Reservation System having Key Features (CRUD) Room management, Reservation booking, Check-in / check-out and Invoice generation.
+- Implement Digital Wallet System having key features like  Users add money, transfer funds, and view transaction history focusing on CRUD operations.
+- Implement Online Voting System with features Users cast votes securely during an election, Voter registration, Candidate management, Vote casting, Result declaration.
+- 🔗[scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 
 ## 🛠️ Technologies Used
  - Java
@@ -214,6 +221,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
