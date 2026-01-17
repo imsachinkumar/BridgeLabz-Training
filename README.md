@@ -213,6 +213,17 @@ This repository documents contains learning progress during  BridgeLabz training
 - All implementations were done using Java with a focus on logic clarity and efficiency.
 - 🔗[stackqueuehashmap](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stackqueuehashmap)
 
+#### 🔹📅 15-Jan-2026 (Thursday)
+- Study and Focus on searching techniques and mutable classes like  Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader.
+- Analyse the Address Book Problem and figure out its usecases for implementation.
+- Study about 4-Layer Architecture in Java consisting Presentation layer, Service layer, DAO Layer (Data Access Object) and Model layer.
+
+#### 🔹📅 16-Jan-2026 (Friday)
+- Completed and submitted sorting algorithms (Bubble sort, Quick sort, Insertion sort, Merge Sort, Heap Sort) assignment successfully.
+- Started solving Searching Algorithm Problems based on Linear Search and Binary Search.
+- Focus on Runtime analysis process of measuring how an algorithm’s execution time grows with input size.
+- 🔗[sortingalgorithms](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sortingalgorithms)
+
 
 ## 🛠️ Technologies Used
  - Java
@@ -228,6 +239,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
