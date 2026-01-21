@@ -224,6 +224,23 @@ This repository documents contains learning progress during  BridgeLabz training
 - Focus on Runtime analysis process of measuring how an algorithm’s execution time grows with input size.
 - 🔗[sortingalgorithms](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sortingalgorithms)
 
+#### 🔹📅 17-Jan-2026 (Saturday)
+- Solve Traffic Manager scenario-based problem using core java,OOPS and DSA Concepts:
+- > Problem consist the scenario was->
+>>>> Roundabout Vehicle Flow Story: A smart city roundabout allows vehicles to enter and exit dynamically. Each vehicle is a node in a Circular Linked List. A Queue manages vehicles waiting to enter.
+Requirements:
+● Add or remove cars in a circular path.
+ ● Queue overflow/underflow handling.
+● Print state of roundabout at any time.
+
+- Solved a BookShelf scenario based problem :
+BookShelf – Library Organiz Story: In a library system, books are arranged based on genre and author. A HashMap maps genre → list of books (LinkedList). Each list is dynamically updated when books are borrowed or
+returned.
+Requirements:
+● Maintain genre-wise catalog.
+● Efficient insert, delete using LinkedList.
+● Avoid duplication using HashSet.
+
 
 ## 🛠️ Technologies Used
  - Java
@@ -239,6 +256,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
