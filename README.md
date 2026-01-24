@@ -225,22 +225,37 @@ This repository documents contains learning progress during  BridgeLabz training
 - 🔗[sortingalgorithms](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sortingalgorithms)
 
 #### 🔹📅 17-Jan-2026 (Saturday)
-- Solve Traffic Manager scenario-based problem using core java,OOPS and DSA Concepts:
-- > Problem consist the scenario was->
->>>> Roundabout Vehicle Flow Story: A smart city roundabout allows vehicles to enter and exit dynamically. Each vehicle is a node in a Circular Linked List. A Queue manages vehicles waiting to enter.
-Requirements:
-● Add or remove cars in a circular path.
- ● Queue overflow/underflow handling.
-● Print state of roundabout at any time.
+- Implemented concepts of runtime analysis through coding questions
+- Solved time & space complexity–based assignment problems
+- Applied Big-O (best, worst & average cases) in real questions
+- Strengthened problem-solving with performance-focused thinking
+- 🔗[Time-Complexity](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/timecomplexity)
 
-- Solved a BookShelf scenario based problem :
-BookShelf – Library Organiz Story: In a library system, books are arranged based on genre and author. A HashMap maps genre → list of books (LinkedList). Each list is dynamically updated when books are borrowed or
-returned.
-Requirements:
-● Maintain genre-wise catalog.
-● Efficient insert, delete using LinkedList.
-● Avoid duplication using HashSet.
+#### 🔹📅 19-Jan-2026 (Monday)
 
+- Solved BrowserBuddy using Doubly Linked List + Stack for tab history & restore
+- Implemented ParcelTracker with Singly Linked List for delivery stage tracking
+- Built ExamProctor using Stack + HashMap with functions for evaluation logic
+- Strengthened confidence in real-world, scenario-driven DSA applications
+- 🔗[Scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based).
+
+#### 🔹📅 20-Jan-2026 (Tuesday)
+
+- Solved BankAccount Hierarchy using abstract classes, immutability & polymorphic fee calculation
+- Implemented Employee Role Polymorphism with optimized bonus logic and caching
+- Studied Java Generics for type safety, reusability & performance
+- Participated in student review and explained solutions
+- 🔗[Collections](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+
+#### 🔹📅 21-Jan-2026 (Wednesday)
+
+-> Focus: Java Generics – Conceptual & Problem Practice
+
+- Studied core Java Generics concepts for type safety
+- Practiced Generics-based questions and assignments
+- Worked with generic classes, methods & bounds
+- Improved confidence in applying Generics to problem-solving
+- 🔗[Generics](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
 ## 🛠️ Technologies Used
  - Java
@@ -256,6 +271,7 @@ Requirements:
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
