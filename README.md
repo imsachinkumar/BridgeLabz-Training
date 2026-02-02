@@ -257,6 +257,70 @@ This repository documents contains learning progress during  BridgeLabz training
 - Improved confidence in applying Generics to problem-solving
 - 🔗[Generics](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 
+#### 🔹📅 22-Jan-2026 (Thursday)
+
+- Implemented a supermarket billing system using Queue for customer flow and HashMap for fast     price and stock lookup.
+- Managed customer add/remove operations and updated item stock after purchases.
+- Built a parcel tracking system using a Singly Linked List to model delivery stages.
+- Enabled forward tracking and insertion of custom intermediate checkpoints.
+- Handled edge cases like lost or missing parcels using null pointer checks.
+
+#### 🔹📅 23-Jan-2026 (Friday)
+
+- Studied Java Streams API for functional-style data processing.
+- Practiced core stream operations like filter, map, sorted, and collect.
+- Completed assignment using streams to process collections efficiently.
+- Reduced boilerplate code by replacing loops with stream pipelines.
+- Improved understanding of lambda expressions and stream workflows.
+- 🔗[Streams](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+#### 🔹📅 27-Jan-2026 (Tuesday)
+
+- Studied Regular Expressions (Regex) for pattern matching and input validation.
+- Practiced regex use cases like username validation and string matching.
+- Learned JUnit fundamentals for unit testing Java applications.
+- Wrote and executed JUnit test cases for utility and logic-based methods.
+- Successfully completed assignment problems using Regex and JUnit.
+- 🔗[Regex](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+- 🔗[JUnit](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit)
+
+#### 🔹📅 28-Jan-2026 (Wednesday)
+
+- Practiced SonarQube to analyze code quality and detect bugs, smells, and vulnerabilities.
+- Improved code by fixing issues related to readability, duplication, and best practices.
+- Solved the Lexical Twist problem based on a core Java, scenario-driven approach.
+- Applied string manipulation and logical reasoning to meet problem constraints.
+- Strengthened understanding of clean code and core Java concepts.
+- 🔗[Scenario-based](https://github.com/imsachinkumar/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+#### 🔹📅 29-Jan-2026 (Thursday)
+
+- Studied Java Annotations and their usage for adding metadata to classes and methods.
+- Learned Reflection API to inspect and manipulate classes, fields, and methods at runtime.
+- Applied annotations and reflection to access private members and runtime information.
+- Solved the Future Logistics scenario-based problem using OOP principles.
+- Strengthened understanding of object-oriented design and runtime behavior in Java.
+- 🔗[Future-logistics](https://github.com/imsachinkumar/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/futurelogistics)
+
+#### 🔹📅 30-Jan-2026 (Friday)
+
+- Solved and completed Annotation and reflection problem successfully.
+- Studied CSV file handling for reading and writing structured data in Java.
+- Learned to parse CSV data and process records efficiently.
+- Explored JSON data handling for structured and hierarchical data formats.
+- Practiced reading, writing, and mapping JSON data to Java objects.
+- Improved understanding of data exchange formats and file-based data processing.
+- 🔗[Annotation](https://github.com/imsachinkumar/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)
+
+#### 🔹📅 02-Feb-2026 (Monday)
+
+- Studied Functional Interfaces and their role in functional programming in Java.
+- Learned Lambda Expressions to implement functional interfaces concisely.
+- Practiced built-in functional interfaces like Predicate, Function, and Consumer.
+- Solved assignment problems using lambdas for cleaner and more readable code.
+- Improved understanding of functional-style programming in Java.
+  
+
 ## 🛠️ Technologies Used
  - Java
  - JDK
@@ -271,6 +335,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
