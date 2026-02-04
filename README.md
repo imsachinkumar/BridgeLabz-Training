@@ -319,6 +319,23 @@ This repository documents contains learning progress during  BridgeLabz training
 - Practiced built-in functional interfaces like Predicate, Function, and Consumer.
 - Solved assignment problems using lambdas for cleaner and more readable code.
 - Improved understanding of functional-style programming in Java.
+
+#### 🔹📅 03-Feb-2026 (Tuesday)
+
+- Studied and practiced Java Stream API including filter, map, reduce, and forEach operations.
+- Gained hands-on experience with Collectors such as toList(), toSet(), groupingBy(), and counting().
+- Solved multiple problems using Streams to transform, aggregate, and analyze data efficiently.
+- Improved understanding of functional programming concepts and lambda expressions in Java.
+- 🔗[lambda-expression](https://github.com/imsachinkumar/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions)
+
+#### 🔹📅 04-Feb-2026 (Wednesday)
+
+- Studied Java Functional Interfaces and their role in enabling lambda expressions.
+- Practiced built-in functional interfaces such as Predicate, Function, Consumer, and Supplier.
+- Implemented custom functional interfaces using @FunctionalInterface annotation.
+- Solved problems using lambda-based logic to write concise and readable code.
+- Improved understanding of functional programming concepts in Java.
+- 🔗[functional-interface](https://github.com/imsachinkumar/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interface)
   
 
 ## 🛠️ Technologies Used
@@ -335,6 +352,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
