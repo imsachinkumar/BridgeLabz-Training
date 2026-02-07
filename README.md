@@ -336,6 +336,31 @@ This repository documents contains learning progress during  BridgeLabz training
 - Solved problems using lambda-based logic to write concise and readable code.
 - Improved understanding of functional programming concepts in Java.
 - 🔗[functional-interface](https://github.com/imsachinkumar/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interface)
+
+#### 🔹📅 05-Feb-2026 (Thursday)
+
+- A Java-based system that calculates the hazard risk score of factory robots using arm precision, worker density, and machinery state.
+- Implements strict input validation and handles invalid scenarios using a custom exception (RobotSafetyException).
+- Uses predefined machinery risk factors to compute hazard levels with a real-world inspired formula.
+- Demonstrates core Java concepts such as exception handling, conditional logic, and method-based design.
+- Designed to simulate industry-level safety analysis for automated factory environments.
+
+#### 🔹📅 06-Feb-2026 (Friday)
+
+- Developed Java applications to solve real-world problems such as food delivery order routing and online classroom attendance tracking.
+- Utilized Java Collections including Queue, List, Set, and Map to manage data efficiently.
+- Applied OOP principles to design modular and maintainable classes for orders, agents, sessions, and students.
+- Implemented custom exception handling to manage edge cases like unavailable delivery agents and duplicate attendance.
+- These projects demonstrate practical use of data structures, exception handling, and clean business logic.
+
+#### 🔹📅 07-Feb-2026 (Saturday)
+
+-  OceanFleet A Java-based system developed to manage and analyze cargo vessel performance data across marine routes.
+- Uses a List to store vessel records and retrieve details efficiently based on vesselId.
+- Implements OOP principles through well-defined model and utility classes for clean data handling.
+- Identifies and returns high-performance vessels based on the highest average speed.
+- Demonstrates practical use of collections, object-oriented design, and real-world data processing.
+
   
 
 ## 🛠️ Technologies Used
@@ -352,6 +377,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
