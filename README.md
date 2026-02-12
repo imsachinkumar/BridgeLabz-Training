@@ -361,6 +361,23 @@ This repository documents contains learning progress during  BridgeLabz training
 - Identifies and returns high-performance vessels based on the highest average speed.
 - Demonstrates practical use of collections, object-oriented design, and real-world data processing.
 
+#### 🔹📅 09-Feb-2026 (Monday)
+
+- Studied the fundamentals of DBMS and JDBC including database concepts, SQL operations, and connectivity in Java.
+- Developed a Health Clinic Management System using JDBC and DBMS concepts.
+- Implemented Patient, Doctor, Appointment, Visit, and Billing modules with full CRUD operations.
+- Applied advanced SQL features including JOINs, Transactions (COMMIT/ROLLBACK), Aggregate Functions, Subqueries, and Batch Processing.
+
+#### 🔹📅 10-Feb-2026 (Tuesday)
+
+-   MOCK Assignment
+   
+#### 🔹📅 11-Feb-2026 (Wednesday)
+
+- Implemented unit test cases using NUnit for the Bank Account Program class.
+- Tested both Deposit and Withdraw methods for valid and invalid scenarios.
+- Verified balance updates using Assert.AreEqual and validated exception handling for negative deposits and insufficient funds.
+- Ensured each test method contains only one Assert as per the requirement.
   
 
 ## 🛠️ Technologies Used
@@ -377,6 +394,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
