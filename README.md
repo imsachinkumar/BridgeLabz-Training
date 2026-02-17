@@ -378,7 +378,42 @@ This repository documents contains learning progress during  BridgeLabz training
 - Tested both Deposit and Withdraw methods for valid and invalid scenarios.
 - Verified balance updates using Assert.AreEqual and validated exception handling for negative deposits and insufficient funds.
 - Ensured each test method contains only one Assert as per the requirement.
-  
+
+#### 🔹📅 12-Feb-2026 (Thursday)
+
+- Developed Java mini-systems using OOP principles, collections, and custom exception handling.
+- Implemented real-world scenarios like Smart Parking Slot Allocation and Courier Shift Scheduling.
+- Used Map, List, and Queue for efficient data management and allocation logic.
+- Designed modular classes (Vehicle, Employee, ParkingSlot, etc.) to ensure clean and maintainable architecture.
+- Added validation and custom exceptions to handle edge cases and improve system reliability.
+
+#### 🔹📅 13-Feb-2026 (Friday)
+
+- Power-Skill Session for Communication
+
+#### 🔹📅 14-Feb-2026 (Saturday)
+
+- Developed an Online Course Enrollment Manager using Java 8 functional programming features.
+- Implemented enrollment management with filtering by course and category using Streams API and Lambda Expressions.
+- Applied Collectors (groupingBy, counting) to group enrollments and calculate category-wise counts.
+- Used Comparator and method references to sort enrollments based on enrollment date.
+- Focused on writing clean, readable, and efficient Java 8 code with proper stream-based operations.
+
+#### 🔹📅 16-Feb-2026 (Monday)
+
+- Developed Java-based systems for Disaster Relief Resource Allocation and Smart Water Tank Monitoring using strong OOP principles.
+- Utilized Map, Queue (FIFO logic), and List collections for efficient resource and data management.
+- Implemented allocation and monitoring logic with real-world scenarios like resource distribution and water level tracking.
+- Applied sorting using Comparator and validation checks to ensure accurate system behavior.
+- Used custom exception handling (InsufficientResourceException, InvalidWaterLevelException) to manage edge cases and improve reliability.
+
+#### 🔹📅 17-Feb-2026 (Tuesday)
+
+- Started learning Spring Boot fundamentals to build Java-based backend applications.
+- Explored project setup, dependency management, and basic Spring Boot architecture.
+- Learned about REST APIs, annotations, and auto-configuration concepts.
+- Created basic endpoints to understand request handling and application flow.
+- Focused on building a strong foundation for developing scalable Spring Boot applications.
 
 ## 🛠️ Technologies Used
  - Java
@@ -394,6 +429,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
