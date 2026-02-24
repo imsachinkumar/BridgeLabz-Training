@@ -16,35 +16,6 @@
 #### reviews
 - Contains reviews problems
 
-## 📁 Project Structure
-```
-BridgeLabz_Training/
-│
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── programming-elements/
-│   │   ├── control-flow/
-│   │   ├── arrays/
-│   │   ├── strings/
-│   │   ├── methods/
-│   │   └── extras/
-│   │
-│   ├── leet-code-codebase/
-│   └── scenario-based/
-│
-└── oops-practice/
-    ├── gcr-codebase/
-    │   ├── classandobject/
-    │   ├── constructors/
-    │   ├── inheritance/
-    │   ├── encapsulation/
-    │   ├── polymorphism/
-    │   └── javakeywords/
-    │   
-    ├── leet-code-codebase/
-    └── scenario-based/
-```
-
 
 ## Week 1: Getting Started with Java
 
@@ -407,13 +378,6 @@ This repository documents contains learning progress during  BridgeLabz training
 - Applied sorting using Comparator and validation checks to ensure accurate system behavior.
 - Used custom exception handling (InsufficientResourceException, InvalidWaterLevelException) to manage edge cases and improve reliability.
 
-#### 🔹📅 17-Feb-2026 (Tuesday)
-
-- Started learning Spring Boot fundamentals to build Java-based backend applications.
-- Explored project setup, dependency management, and basic Spring Boot architecture.
-- Learned about REST APIs, annotations, and auto-configuration concepts.
-- Created basic endpoints to understand request handling and application flow.
-- Focused on building a strong foundation for developing scalable Spring Boot applications.
 
 ## 🛠️ Technologies Used
  - Java
@@ -429,6 +393,7 @@ This repository documents contains learning progress during  BridgeLabz training
 ## 👨‍💻 Author
 Sachin Kumar
 B.Tech(CSE)
+
 
 
 
