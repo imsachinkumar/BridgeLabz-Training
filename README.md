@@ -201,7 +201,7 @@ Learned techniques to organize data efficiently and reduce redundancy.
 
 ---
 
-## 🛠 Skills Gained
+##  Skills Gained
 
 - ER Diagram Design
 - Database Modeling
