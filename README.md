@@ -212,3 +212,94 @@ Learned techniques to organize data efficiently and reduce redundancy.
 
 ---
 
+# Day 3 - SQL Advanced Concepts
+
+##  Topics Covered
+
+### 1. Joins
+
+Learned how to retrieve data from multiple tables using different types of SQL joins.
+
+#### Types of Joins
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN (concept)
+* CROSS JOIN
+* SELF JOIN
+
+#### Practiced
+
+* Joining multiple tables
+* Retrieving related records
+* Understanding matching and non-matching rows
+* Using aliases for better query readability
+
+---
+
+### 2. Stored Procedures
+
+Learned how to create reusable SQL programs that can execute a set of SQL statements.
+
+#### Topics Covered
+
+* Creating Stored Procedures
+* Calling Stored Procedures
+* Input Parameters
+* Using Variables
+* Conditional Logic inside Procedures
+* Advantages of Stored Procedures
+
+#### Benefits
+
+* Code Reusability
+* Better Performance
+* Improved Security
+* Reduced Network Traffic
+* Easier Maintenance
+
+---
+
+### 3. Triggers
+
+Learned how triggers automatically execute in response to database events.
+
+#### Types of Triggers
+
+* BEFORE INSERT
+* AFTER INSERT
+* BEFORE UPDATE
+* AFTER UPDATE
+* BEFORE DELETE
+* AFTER DELETE
+
+#### Practiced
+
+* Creating Triggers
+* Automatic Data Validation
+* Audit Logging
+* Maintaining Data Consistency
+* Trigger Execution Flow
+
+---
+
+## Key Learning Outcomes
+
+* Understood different SQL Join operations and their use cases.
+* Implemented Stored Procedures for reusable database operations.
+* Learned how Triggers automate tasks based on INSERT, UPDATE, and DELETE events.
+* Improved understanding of advanced SQL concepts used in real-world database applications.
+
+---
+
+## Technologies Used
+
+* MySQL
+* SQL
+* MySQL Workbench
+
+---
+
+
+
