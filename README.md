@@ -301,5 +301,25 @@ Learned how triggers automatically execute in response to database events.
 
 ---
 
+## Day 4 — Implement  CRUD Operation in Health Clinic App
 
+- Ran the project and tested the Patient module: Add, List, View, and Update patients.
+- Added Doctors and linked each one to a Specialization.
+- Added Specializations (e.g. Cardiology, Dermatology) and used their IDs while creating doctors.
+- Booked an Appointment by entering a valid Patient ID and Doctor ID along with date and time.
+- Completed an appointment, which automatically created a Billing record and a Visit History record.
+- Checked the Billing menu — viewed all bills, checked a bill for a specific appointment, and 
+  marked a bill as "Paid".
 
+### What I learned
+- How the app is structured in layers: UI → Service → DAO → Database.
+- Why DAO uses an interface + implementation (makes it easy to swap the database later).
+- What a connection pool is and why it's faster than opening a new database connection every time.
+- What a transaction is — completing an appointment does 3 things together (update status, 
+  create bill, create visit record), and if any one step fails, everything is undone.
+- Why foreign keys are useful — they stop invalid data, like booking an appointment with a 
+  patient ID that doesn't exist.
+
+### Next steps
+- Push the project to GitHub.
+- Test Delete operations and Visit History.
