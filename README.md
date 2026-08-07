@@ -415,3 +415,66 @@ This module covers the fundamentals of Java Servlets, Apache Tomcat configuratio
 - Maven WAR Packaging
 - Web Application Deployment
 - Basic Web Application Debugging
+
+
+# Day 6 - Java Servlet
+
+## Overview
+Learned the fundamentals of Java Servlets and developed a simple web application using Apache Tomcat.
+
+## Topics Covered
+- Introduction to Java Servlets
+- Creating a Servlet Project using Maven
+- Configuring Apache Tomcat Server
+- Adding Servlet API dependency in Maven (pom.xml)
+- Creating and Running the First Servlet
+- Understanding Servlet URL Mapping
+- Web Container Architecture
+- Web Application Directory Structure
+- Working with HTML, JSP, and Servlets
+- Handling HTTP Requests and Responses
+
+## Use Cases Implemented
+
+### UC1 - First Servlet
+- Created a Maven-based Servlet project
+- Configured Tomcat server
+- Developed and executed the first Servlet
+
+### UC2 - Login Servlet
+- Created a Login page using HTML
+- Developed a Login Servlet
+- Validated predefined username and password
+- Redirected to Login Success JSP after successful authentication
+
+### UC3 - Name Validation
+Implemented name validation where:
+- Name starts with a Capital Letter
+- Minimum length is 3 characters
+
+### UC4 - Password Validation
+Implemented password validation with the following rules:
+- Minimum 8 characters
+- At least one uppercase letter
+- At least one numeric digit
+- Exactly one special character
+
+## Technologies Used
+- Java
+- Servlet API
+- Maven
+- Apache Tomcat
+- HTML
+- JSP
+- IntelliJ IDEA
+
+## Key Concepts Learned
+- Servlet Lifecycle
+- HttpServlet
+- doGet() and doPost()
+- HttpServletRequest
+- HttpServletResponse
+- @WebServlet Annotation
+- URL Mapping
+- Web Container
+- Maven Dependency Management
