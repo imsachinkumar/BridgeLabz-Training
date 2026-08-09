@@ -1,10 +1,10 @@
-package com.myGreetingApp;
+package com.bridgelabz.greetingsApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class GreetingsAppApplicationTests {
 
 	@Test
 	void contextLoads() {
