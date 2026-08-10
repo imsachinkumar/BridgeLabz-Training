@@ -478,3 +478,54 @@ Implemented password validation with the following rules:
 - URL Mapping
 - Web Container
 - Maven Dependency Management
+
+# Day 7 - Spring REST API & Request Handling
+
+## Start Developing ContactApp
+
+- Spring REST API
+- RESTful API endpoints
+- HTTP Methods
+- Request Handling in Spring Boot
+- `@RestController`
+- `@RequestMapping`
+- `@GetMapping`
+- `@PostMapping`
+- `@PutMapping`
+- `@DeleteMapping`
+- `@RequestBody`
+- `@PathVariable`
+- `@RequestParam`
+- Response Handling
+- H2 In-Memory Database Basics
+- Distributed Architecture Overview
+
+---
+
+## 1. Spring REST API
+
+A REST API allows different applications to communicate with each other over HTTP.
+Spring Boot provides annotations that make it easy to create RESTful APIs.
+Basic flow:
+Client → REST API → Controller → Service → Repository → Database
+
+---
+
+## 2. REST API HTTP Methods
+
+| HTTP Method | Purpose |
+|-------------|---------|
+| GET | Retrieve data |
+| POST | Create new data |
+| PUT | Update existing data |
+| PATCH | Partially update data |
+| DELETE | Delete data |
+
+---
+
+## 3. Request Handling
+
+Spring Boot provides different annotations for handling HTTP requests.
+
+
+
