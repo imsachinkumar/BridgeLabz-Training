@@ -528,4 +528,78 @@ Client → REST API → Controller → Service → Repository → Database
 Spring Boot provides different annotations for handling HTTP requests.
 
 
+# Day 8 - Contact App
+
+## Overview
+
+On Day 8, I enhanced the Contact App by implementing complete **CRUD Operations** and **Global Exception Handling** using Spring Boot.
+
+## Features Implemented
+
+### CRUD Operations
+
+Implemented all basic operations for managing contacts:
+
+* **Create** - Add a new contact
+* **Read** - Get all contacts and get contact by ID
+* **Update** - Update an existing contact
+* **Delete** - Delete a contact by ID
+
+### Exception Handling
+
+Implemented centralized exception handling to handle errors properly across the application.
+
+* Created custom exceptions
+* Implemented `@RestControllerAdvice`
+* Used `@ExceptionHandler`
+* Handled `Contact Not Found` exception
+* Returned proper HTTP status codes
+* Created structured error responses
+
+## API Endpoints
+
+| HTTP Method | Endpoint         | Description          |
+| ----------- | ---------------- | -------------------- |
+| POST        | `/contacts`      | Create a new contact |
+| GET         | `/contacts`      | Get all contacts     |
+| GET         | `/contacts/{id}` | Get contact by ID    |
+| PUT         | `/contacts/{id}` | Update contact       |
+| DELETE      | `/contacts/{id}` | Delete contact       |
+
+## Technologies Used
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* H2 Database
+* REST API
+* Maven
+
+## Project Structure
+
+```text
+ContactApp
+├── controller
+├── service
+├── repository
+├── entity
+├── dto
+└── exception
+```
+
+## Key Learnings
+
+* Implemented complete CRUD operations using Spring Boot.
+* Learned how to handle exceptions globally.
+* Understood the use of `@RestControllerAdvice`.
+* Learned how `@ExceptionHandler` works.
+* Learned to return appropriate HTTP status codes.
+* Improved API error handling and response structure.
+
+## Day 8 Outcome
+
+Successfully completed **CRUD Operations and Global Exception Handling** in the Contact App, making the application more robust, maintainable, and user-friendly.
+
+
+
 
