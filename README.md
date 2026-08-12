@@ -600,6 +600,73 @@ ContactApp
 
 Successfully completed **CRUD Operations and Global Exception Handling** in the Contact App, making the application more robust, maintainable, and user-friendly.
 
+# Day 9 – Spring Boot, Controllers & REST APIs
+
+## Topics Covered
+
+### Spring Boot Auto-Configuration
+
+* Understood how Spring Boot automatically configures beans and components based on the dependencies present in the project.
+* Reduced the need for manual XML/configuration.
+* Understood the role of `@SpringBootApplication`, which combines:
+
+  * `@Configuration`
+  * `@EnableAutoConfiguration`
+  * `@ComponentScan`
+
+### Spring Boot Starters
+
+* Studied how Spring Boot starters simplify dependency management.
+* Worked with `spring-boot-starter-web` for web and REST API development.
+* Understood that starters provide the commonly required dependencies together.
+
+### Embedded Server
+
+* Studied the concept of an embedded server in Spring Boot.
+* Understood how **Tomcat** is embedded and starts automatically with the application.
+* No separate server installation or WAR deployment is required for running the application.
+
+### Spring Controller
+
+* Worked with `@Controller` and `@RestController`.
+* Understood how controllers receive HTTP requests and return responses.
+* Used `@RequestMapping` to define common URL mappings.
+
+### REST API Basics
+
+* Implemented basic REST endpoints using:
+
+  * `@GetMapping`
+  * `@PostMapping`
+  * `@PutMapping`
+  * `@PatchMapping`
+  * `@DeleteMapping`
+* Understood how HTTP methods are mapped to CRUD operations.
+
+### Request Handling
+
+* Practiced handling request data using:
+
+  * `@RequestBody`
+  * `@PathVariable`
+  * `@RequestParam`
+* Understood how JSON data is received and mapped to Java objects using `@RequestBody`.
+
+### Practical Work
+
+* Created Spring Boot REST controllers.
+* Created API endpoints for handling HTTP requests.
+* Tested REST APIs using Postman.
+* Verified request and response flow between client and Spring Boot application.
+
+## Key Takeaways
+
+* Auto-configuration reduces manual configuration.
+* Starters simplify dependency management.
+* Embedded Tomcat allows Spring Boot applications to run independently.
+* Controllers handle incoming HTTP requests.
+* REST APIs use HTTP methods for performing CRUD operations.
+* `@RequestBody`, `@PathVariable`, and `@RequestParam` are used for receiving different types of request data.
 
 
 
