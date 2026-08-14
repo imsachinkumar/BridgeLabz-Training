@@ -669,4 +669,75 @@ Successfully completed **CRUD Operations and Global Exception Handling** in the 
 * `@RequestBody`, `@PathVariable`, and `@RequestParam` are used for receiving different types of request data.
 
 
+# Day 10 – Backend with Spring Boot
+
+##  Topics Covered
+
+### 1. Dependency Injection in Spring Boot
+
+* Understood the concept of **Dependency Injection (DI)** and **Inversion of Control (IoC)**.
+* Learned how Spring creates and manages objects as **Spring Beans**.
+* Understood how `@Autowired` performs dependency injection.
+* Learned how Spring identifies the required bean using **type matching**.
+* Studied `@Primary` and `@Qualifier` for resolving multiple beans of the same type.
+* Explored different **Spring Bean scopes**, including Singleton and Prototype.
+
+### 2. Spring JDBC
+
+* Learned the basics of **JDBC (Java Database Connectivity)**.
+* Understood how JDBC enables Java applications to communicate with databases.
+* Learned the role of a **JDBC Driver** in database communication.
+* Studied **Spring JDBC** and the use of `JdbcTemplate`.
+* Understood how `JdbcTemplate` reduces JDBC boilerplate code and manages database resources.
+
+### 3. HikariCP Connection Pool
+
+* Learned about **HikariCP**, the connection pooling mechanism commonly used by Spring Boot.
+* Understood how connections are reused instead of creating a new connection for every request.
+* Learned how `DataSource`, HikariCP, JDBC Driver, and MySQL work together.
+
+### 4. H2 Database Integration
+
+* Configured and integrated the **H2 in-memory database** with the Spring Boot application.
+* Learned how to configure the H2 database using `application.properties`.
+* Used the H2 Console to view and execute SQL queries.
+* Tested CRUD operations using the H2 database.
+
+### 5. JPA Entity Lifecycle
+
+* Learned about JPA lifecycle callback annotations:
+
+  * `@PrePersist` – executes before a new entity is inserted.
+  * `@PreUpdate` – executes before an existing entity is updated.
+* Used lifecycle callbacks for handling automatic entity-related operations such as timestamps.
+
+### 6. Entity Relationships & Mapping
+
+* Worked with `@OneToMany` and `@ManyToOne` relationships.
+* Understood the use of `mappedBy`.
+* Learned about `cascade` and `orphanRemoval`.
+* Created separate **Mapper classes** for converting:
+
+  * `RequestDTO → Entity`
+  * `Entity → ResponseDTO`
+
+##  Practical Implementation
+
+Implemented and enhanced the **Contact Application** backend using Spring Boot.
+
+The application included:
+
+* Dependency Injection using Spring Beans
+* DTO-to-Entity and Entity-to-DTO mapping
+* CRUD operations
+* H2 database integration
+* JPA/Hibernate entity relationships
+* Spring JDBC concepts
+* Database connection pooling with HikariCP
+* JPA lifecycle callbacks
+
+##  Key Learnings
+
+By the end of Day 10, I understood how Spring Boot manages dependencies, connects applications with databases, manages database connections efficiently, and handles entity lifecycle events and object mapping.
+
 
