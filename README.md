@@ -740,4 +740,190 @@ The application included:
 
 By the end of Day 10, I understood how Spring Boot manages dependencies, connects applications with databases, manages database connections efficiently, and handles entity lifecycle events and object mapping.
 
+# Day 11  (Started Building Employee Payroll App)
+
+##  Overview
+
+The **Employee Payroll App** is a backend application developed using **Spring Boot** and **Spring Data JPA** to manage employee information and payroll-related operations.
+
+The application allows an organization to maintain employee records, calculate salaries, manage deductions, and perform basic payroll operations through REST APIs.
+
+---
+
+##  Features
+
+* Add a new employee
+* Get all employees
+* Get employee by ID
+* Update employee details
+* Delete an employee
+* Search employees by name
+* Search employees by department
+* Calculate gross salary
+* Calculate net salary
+* Manage salary deductions
+* Maintain payroll information
+* Generate employee salary/payroll details
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology      | Purpose                     |
+| --------------- | --------------------------- |
+| Java            | Programming Language        |
+| Spring Boot     | Backend Framework           |
+| Spring Data JPA | Database Operations         |
+| Hibernate       | ORM                         |
+| MySQL / H2      | Database                    |
+| Maven           | Dependency Management       |
+| REST API        | Client-Server Communication |
+| IntelliJ IDEA   | Development Environment     |
+
+---
+
+##  Project Architecture
+
+The application follows a layered architecture:
+
+```text
+Controller
+    ↓
+Service
+    ↓
+Repository
+    ↓
+Database
+```
+
+### Controller Layer
+
+Handles HTTP requests and exposes REST APIs.
+
+### Service Layer
+
+Contains business logic such as salary calculation and employee operations.
+
+### Repository Layer
+
+Uses Spring Data JPA to communicate with the database.
+
+### Entity Layer
+
+Represents database tables using JPA entities.
+
+---
+
+##  Employee Information
+
+An employee can contain fields such as:
+
+```text
+employeeId
+firstName
+lastName
+email
+phone
+department
+designation
+joiningDate
+basicSalary
+hra
+allowance
+deduction
+```
+
+---
+
+##  Database
+
+The application uses a relational database to store employee and payroll information.
+
+Example employee table:
+
+```text
+employee
+------------------------------------------------
+employee_id
+first_name
+last_name
+email
+phone
+department
+designation
+joining_date
+basic_salary
+hra
+allowance
+deduction
+```
+
+Spring Data JPA and Hibernate are used for mapping Java objects to database tables.
+
+---
+
+##  Project Structure
+
+```text
+src
+└── main
+    └── java
+        └── com.example.payroll
+            │
+            ├── controller
+            │   └── EmployeeController.java
+            │
+            ├── service
+            │   ├── EmployeeService.java
+            │   └── EmployeeServiceImpl.java
+            │
+            ├── repository
+            │   └── EmployeeRepository.java
+            │
+            ├── entity
+            │   └── Employee.java
+            │
+            ├── dto
+            │   ├── EmployeeRequestDTO.java
+            │   └── EmployeeResponseDTO.java
+            │
+            └── exception
+                ├── EmployeeNotFoundException.java
+                └── GlobalExceptionHandler.java
+```
+
+---
+
+
+For development and testing, H2 Database can also be used.
+
+---
+
+##  API Testing
+
+The APIs can be tested using tools such as:
+
+* Postman
+* Swagger
+* IntelliJ HTTP Client
+
+##  Learning Objectives
+
+This project demonstrates practical implementation of:
+
+* Spring Boot
+* REST APIs
+* Spring Data JPA
+* Hibernate
+* Entity Mapping
+* Repository Pattern
+* Service Layer
+* DTOs
+* Exception Handling
+* Database Integration
+* CRUD Operations
+* Business Logic
+* Maven
+
+---
 
