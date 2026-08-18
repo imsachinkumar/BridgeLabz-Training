@@ -927,3 +927,38 @@ This project demonstrates practical implementation of:
 
 ---
 
+## Day 12 –  Custom Exception Handling in Payroll App
+
+### What I Learned
+
+* Implemented complete **CRUD operations** for the Employee Payroll application.
+* Created REST APIs to **Create, Read, Update, and Delete** employee records.
+* Used **DTOs (Request DTO and Response DTO)** to handle API request and response data.
+* Implemented **Custom Exception Handling** for better error management.
+* Created custom exceptions such as `EmployeeNotFoundException`.
+* Used `@RestControllerAdvice` and `@ExceptionHandler` for centralized exception handling.
+* Tested CRUD APIs and exception scenarios using **Postman**.
+
+### CRUD Operations Implemented
+
+* **POST** – Create a new employee
+* **GET** – Retrieve employee details
+* **PUT** – Update employee information
+* **DELETE** – Delete an employee
+
+### Key Concepts
+
+* RESTful APIs
+* Spring Boot
+* Spring Data JPA
+* DTO Pattern
+* Custom Exceptions
+* Global Exception Handler
+* HTTP Status Codes
+* Postman API Testing
+
+### Outcome
+
+Successfully implemented employee CRUD functionality with centralized custom exception handling, making the Payroll application more robust and easier to maintain.
+
+
